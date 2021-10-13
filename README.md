@@ -1,5 +1,5 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 4.0
-> Evento gratuito - 6 a 12 de setembro/2021
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 5.0
+> Evento gratuito - 1 a 7 de novembro/2021
 > 
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
@@ -9,7 +9,7 @@
 [![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
-Bem-vindos ao repositório oficial da SDS 4.0!
+Bem-vindos ao repositório oficial da SDS 5.0!
 
 Em breve vamos colocar aqui todos materiais para você acompanhar o evento e realizar o projeto. 
 
@@ -19,12 +19,12 @@ Enquanto isso, confere abaixo os guias de instalação das ferramentas que vamos
 
 Não se inscreveu ainda? Corre que ainda dá tempo:
 
-- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds4-inscricao-org)
+- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds5-inscricao-org)
 
 ## Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds3/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds3/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds3/tree/main/_instalacao/mac)
+- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds5/tree/main/_instalacao/windows)
+- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds5/tree/main/_instalacao/linux)
+- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds5/tree/main/_instalacao/mac)
 
 ## Vídeos de preparação
 
