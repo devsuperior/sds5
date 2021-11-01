@@ -23,6 +23,10 @@
 
 https://github.com/devsuperior/sds5/raw/main/_assets/dados.xlsx
 
+### AVISO: caso não tenha instalado o Postman ainda, siga este vídeo:
+
+https://youtu.be/y0VQARbfuTY
+
 ### Passo 1: configuração de segurança
 
 ```java
