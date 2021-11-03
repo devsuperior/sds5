@@ -26,5 +26,7 @@ https://learn.devsuperior.com
 
 **ATENÇÃO: não será possível enviar o projeto depois do evento**
 
+![Image](https://raw.githubusercontent.com/devsuperior/sds5/main/_assets/inscricao.png "Formulário de inscrição")
+
 ## 6) Aguarde até 2 semanas após o evento e acesse seu certificado na plataforma
 
