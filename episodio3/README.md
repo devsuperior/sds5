@@ -28,7 +28,7 @@
 
 - Instalar React Router DOM
 ```bash
-yarn add react-router-dom
+yarn add react-router-dom@5.2.0
 
 yarn add @types/react-router-dom -D
 ```
