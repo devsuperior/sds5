@@ -26,7 +26,7 @@
 
 ### Passo 1: Rotas
 
-- Instalar React Router DOM
+- Instalar React Router DOM (VERSÃO 5.2.0 CONFORME COMANDO ABAIXO)
 ```bash
 yarn add react-router-dom@5.2.0
 
